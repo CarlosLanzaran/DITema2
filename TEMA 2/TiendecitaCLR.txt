@@ -1,0 +1,3 @@
+articulos: (#idArticulos, cantidad, precio, descripción)
+tickets: (#idTickets, totalTickets, fecha)
+arituclosTikects: (#idcantidadArticulo, idArticulosFk, idTicketsFK)
